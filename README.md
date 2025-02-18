@@ -23,7 +23,12 @@ A simple **GUI-based Weather App** using **Python (Tkinter) & OpenWeatherMap API
     API_KEY = "your_api_key_here"
 5. Run the application:
      python weather_Gui.py
-🖼️ Screenshot:
+
+   
+   🖼️ Screenshot:
+
+   ![Weather_Gui](https://github.com/user-attachments/assets/5477eadc-80e1-499d-83a6-c8fabc70d23c)
+
 
 🔗 API Used:
 OpenWeatherMap API
