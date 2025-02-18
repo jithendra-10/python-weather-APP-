@@ -1,4 +1,4 @@
-# python-weather-APP-
+# python-weather-APP
 # Weather App 🌦️
 
 A simple **GUI-based Weather App** using **Python (Tkinter) & OpenWeatherMap API** to display real-time weather updates.
